@@ -14,8 +14,15 @@ import {
 const promptTemplates = [
   {
     title: "Tech Tutorial",
-    prompt:
-      "1280x720 YouTube thumbnail: Indian man with laptop, excited expression, bold Hindi-English mix text 'SECRET TRICK!' in bright yellow, clean background with glowing blue accents, simple and eye-catching style",
+    prompt: `Create a professional YouTube thumbnail in 1280x720. 
+      Theme: Tech tutorial, futuristic neon pink and black colors. 
+      Include a bold large text in the center that says: "GraphQL Crash Course". 
+      Use a clean, modern font that is highly readable. 
+      Place the GraphQL logo on the left side in neon glowing style. 
+      On the right side, show a person with a confident and friendly expression, 
+      studio lighting, sharp and high contrast. 
+      Background should be dark with abstract geometric patterns, glowing lines, 
+      and a tech feel. Make it cinematic, eye-catching, and modern.`,
   },
   {
     title: "Gaming",
