@@ -3,7 +3,7 @@
 🚀 Create **eye-catching, professional, and high-quality YouTube thumbnails** using AI.
 Supports **text prompts + image uploads** to generate thumbnails with the perfect size (**1280x720**) and YouTube-friendly design.
 
-![Demo Preview](https://dummyimage.com/1280x720/000/fff&text=Thumbnail+Preview)
+![Demo Preview](https://dummyimage.com/1280x720/000/fff&text=Rajeev+Bhardwaj)
 
 ---
 
